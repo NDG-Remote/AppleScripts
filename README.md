@@ -15,6 +15,7 @@ The script I provid here is for creating a **keyboard shortcut** to insert the c
 
 
 
+
 ## Search text in clipboard in Youtube
 [Documents](/search_clipboard_in_youtube)
 
