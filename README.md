@@ -4,6 +4,7 @@ AppleScripts for Automator and Shortcuts
 
 ## Insert Date in YYYY-MM-DD Format
 [YYYY-MM-DD Script](insert_YYYY_MM_DD/script)
+
 The script I provid here is for creating a **keyboard shortcut** to insert the current date in the **YYYY-MM-DD** format. This can be helpful for naming files or folders with a consistent and sortable date format. Here's a breakdown of the steps you've outlined:
 
 1. In Automator, create a new "Quick Action"
