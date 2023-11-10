@@ -20,11 +20,11 @@ The script I provid here is for creating a **keyboard shortcut** to insert the c
 
 Often very useful when the Google search hasn't given you the answer, this script allows you to swiftly search the text from your clipboard on YouTube with a single keyboard shortcut. Copy your desired text, press 'Command-Control-Option-Y,' and watch it instantly open a new Safari tab for your YouTube search.
 
-###How to Set It Up
+### How to Set It Up
 1. Open Shortcuts and create a new "New Shortcut."
 1. Add a "Run AppleScript" action.
 1. Insert the provided AppleScript code.
 1. Assign a keyboard shortcut of your choice, e.g., "Command-Control-Option-Y."
 
-###How to Use It
+### How to Use It
 Copy the desired text to search on YouTube using "Control+C" and then press your chosen keyboard shortcut (e.g., "Command-Control-Option-Y"). The script will automatically open a new Safari tab with the YouTube search results.
