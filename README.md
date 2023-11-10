@@ -15,8 +15,8 @@ The script I provid here is for creating a **keyboard shortcut** to insert the c
 
 
 ## Search text in clipboard in Youtube
-[Script](search_clipboard_in_youtube/scipt)
-[File](search_clipboard_in_youtube/Search%on%Youtube.shortcut)
+[Documents](/search_clipboard_in_youtube)
+
 Often very useful when the Google search hasn't given you the answer, this script allows you to swiftly search the text from your clipboard on YouTube with a single keyboard shortcut. Copy your desired text, press 'Command-Control-Option-Y,' and watch it instantly open a new Safari tab for your YouTube search.
 
 ###How to Set It Up
