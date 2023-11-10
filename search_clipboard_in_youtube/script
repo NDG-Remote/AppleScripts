@@ -1,0 +1,8 @@
+on run {input, parameter}
+	tell application "Safari"
+		tell window 1
+			set current tab to (make new tab with properties {URL:"https://www.youtube.com/results?search_query=" & input})
+		end tell
+	end tell
+	return input
+end run
